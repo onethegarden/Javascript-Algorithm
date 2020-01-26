@@ -28,7 +28,7 @@ function solution2(participant, completion) {
 
             console.log(participant[i]);
 
-            return participant[i];}
+            return participant[i];}		
 
     }
 }
